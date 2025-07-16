@@ -412,8 +412,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Model Context Protocol Documentation](https://modelcontextprotocol.io/)
 - [Spring Boot Documentation](https://spring.io/projects/spring-boot)
 - [Angular Documentation](https://angular.io/)
-- [Claude AI](https://claude.ai/)
-
+  
 ## 📞 Support
 
 For support, please open an issue on GitHub or contact [your-email@example.com](mailto:your-email@example.com).
@@ -431,4 +430,4 @@ For support, please open an issue on GitHub or contact [your-email@example.com](
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Ben Youssef Wael]**
