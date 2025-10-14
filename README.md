@@ -1,5 +1,5 @@
 # MCP Spring Boot Product Manager
-
+ 
 A Model Context Protocol (MCP) server that integrates with a Spring Boot application to provide AI-powered product management through natural language commands.
 
 ## 🚀 Overview
